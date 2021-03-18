@@ -1,0 +1,15 @@
+{
+    "routes": {
+        "/": "Главная",
+        "/personal": "Главная",
+        "/personal/campaigns": "Список кампаний",
+        "/personal/cases": "Кейсы",
+        "/personal/researches": "Список исследований",
+        "/personal/development/schemes": "Логические схемы",
+        "/personal/development/schemes/my": "Песочница",
+        "/personal/development/schemes/templates": "Шаблоны",
+        "/personal/development/schemes/demos": "Демо",
+        "/personal/development/schemes/system": "Системные",
+        "/personal/managers/leads": "Лиды"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "LegalEntityKind": {
+        "Nothing": "Не определенно",
+        "IP": "Индивидуальный предприниматель",
+        "Company": "Юридическое лицо",
+        "SelfEmployed": "Самозанятый"
+    },
+    "CustomerType": {
+        "Nothing": "Не определенно",
+        "Manufacturer": "Производитель",
+        "Distributor": "Дистрибьютор",
+        "Other": "Другое"
+    },
+    "Countries": {
+        "Nothing": "Не определенно"
+    },
+    "ContactRole": {
+        "Nothing": "Не определенно",
+        "Manager": "Менеджер",
+        "Owner": "Владелец"
+    },
+    "ProductState": {
+        "Nothing": "Не определенно",
+        "Editable": "Редактируемый",
+        "Published": "Опубликован",
+        "UnPublished": "Снят с публикации",
+        "Archived": "Архивирован"
+    },
+    "MarketPlaceKind": {
+        "Internal": "Общая",
+        "Ozon": "Ozon",
+        "Beru": "Beru",
+        "Wildberries": "Wildberries",
+        "Goods": "Goods",
+        "Lamoda": "Lamoda",
+        "WildberriesFBS": "Wildberries FBS"
+    },
+    "ConnectedState": {
+        "Nothing": "Не определенно",
+        "Connected": "Подключен",
+        "Disconnected": "Отключен",
+        "Error": "Ошибка"
+    },
+    "ExistProductAction": {
+        "AddNewWithNewIdentifier": "Добавить новый",
+        "ReplaceExistProduct": "Обновить целевой",
+        "IgnoreImportedProduct": "Игнорировать импортируемый",
+        "AddNewWithSameIdentifier": "Добавить с прежним идентификатором"
+    },
+    "OrderState": {
+        "Nothing": "Не определенно",
+        "New": "Новый",
+        "InProgress": "Выполняется",
+        "Stopped": "Остановлен",
+        "Canceled": "Отменен",
+        "Done": "Выполнен"
+    },
+    "AttributesFormFilter": {
+        "All": "Все",
+        "Required": "Обязательные",
+        "NotRequired": "Не обязательные",
+        "Empty": "Пустые",
+        "Filled": "Заполненные",
+        "Bad": "С ошибкой"
+    },
+    "TestSubject": {
+        "Nothing": "Не определенно",
+        "Title": "Заголовок",
+        "Description": "Описание",
+        "Option": "Характеристика",
+        "Photo": "Фотография",
+        "Price": "Цена",
+        "Complex": "Комплеск"
+    },
+    "SearchMethod": {
+        "Nothing": "Не определенно",
+        "Category": "По каталогу товара",
+        "Keyword": "По ключевому слову"
+    },
+    "RefreshRateType": {
+        "Nothing": "Не определенно",
+        "Minute": "Минута",
+        "Hourly": "Час",
+        "Day": "День",
+        "Week": "Неделя",
+        "Month": "Месяц"
+    }
+}

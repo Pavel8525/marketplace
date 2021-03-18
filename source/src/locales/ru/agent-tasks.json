@@ -1,0 +1,13 @@
+{
+    "title": "Задачи агентов",
+    "description": "Все задачи назначенные на агентов",
+    "state": {
+        "Nothing": "Не выбрано",
+        "New": "Новая",
+        "Approved": "Одобренная",
+        "Committed": "Committed",
+        "PartialyCommitted": "PartialyCommitted",
+        "Done": "Исполненая",
+        "Removed": "Удаленная"
+    }
+}

@@ -1,0 +1,37 @@
+.sp-scroll {
+    @thumb-bg: #838383;
+    @thumb-border-color: #838383;
+    @thumb-border-color-inverse: #fff;
+    @track-vertical-width: 8px;
+    @thumb-border-radius: 0px;
+
+    &__track-vertical {
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: @track-vertical-width !important; // TODO: без "!important" пока не получается переопределить дефолтную (6px) ширину направляющей
+    }
+
+    &__thumb-vertical {
+        border: 1px solid @thumb-border-color;
+        background-color: @thumb-bg;
+        border-radius: @thumb-border-radius;
+    }
+
+    &_params-area {
+        width: ~"calc(100% - 10px)" !important; // !important - чтобы переопределить дефолтные инлайновые стили
+    }
+
+    &_card-menu {
+
+        .sp-scroll__track-vertical {
+            right: 8px;
+            width: 6px !important;
+        }
+
+        .sp-scroll__thumb-vertical {
+            border-color: @thumb-border-color-inverse;
+            background-color: #424242;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Список исследований",
+    "description": "Все исследования",
+    "badge-title": "Новое",
+    "state": {
+        "Nothing": "Не выбрано",
+        "New": "Новое",
+        "InProgress": "В процессе",
+        "Paused": "Приостановленное",
+        "Ended": "Оконченное"
+    },
+    "researches-table": {
+        "columns": {
+            "name": "Наименование",
+            "creation-date": "Дата создания",
+            "state": "Статус",
+            "start-date": "Дата начало",
+            "end-date": "Дата окончания",
+            "continuous" : "Непрерывное"
+        }
+    }
+}

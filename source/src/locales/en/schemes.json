@@ -1,0 +1,14 @@
+{
+    "title": "Logic Schemes",
+    "description": "All Agent Management Logic Schemes",
+    "schemes-table": {
+        "columns": {
+            "name": "Name",
+            "creation-date": "Date of creation",
+            "modification-date": "Modification date",
+            "comment": "Comment",
+            "tags": "Tags",
+            "published" : "Published"
+        }
+    }
+}

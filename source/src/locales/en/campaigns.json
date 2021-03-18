@@ -1,0 +1,48 @@
+{
+    "title": "Campaign List",
+    "description": "List of actual campaigns",
+    "master-creation": {
+        "title": "Create new campaign",
+        "description": "Take a few steps to create and launch a new campaign",
+        "steps": {
+            "step-1": "1. Create Campaign",
+            "step-2": "2. Setting Research Parameters",
+            "step-3": "3. Selecting Participants",
+            "step-4": "4. Start campaign"
+        },
+        "create-form": {
+            "name": "Campaign name",
+            "name-placeholder": "Enter a new campaign name",
+            "comment": "Comment",
+            "comment-placeholder": "Enter a comment (optional)",
+            "case": "Case",
+            "submit-title": "Create",
+            "i-agree": "Agree to",
+            "terms-and-conditions": "terms and conditions",
+            "case-default": "Select case",
+            "validation": {
+                "i-agree-true": "To create a campaign you must agree to the requirements"
+            }
+        },
+        "set-research-settings": {
+            "name": "Research name",
+            "name-placeholder": "Enter a new research name",
+            "start-date": "Research Start Date",
+            "start-date-placeholder": "Select reaserch start date",
+            "сontinuous": "Continuous",
+            "submit-title": "Save"
+        },
+        "select-participants": {
+            "tooltip": "To add participants to the research, you can edit the table below, or download the existing file with the list of participants in Excel (.docx format is supported).<br/>It is also necessary to arrange the types of columns for the correct comparison of the properties of the participant with the business object of the platform.",
+            "submit-title": "Save",
+            "import-button-title": "Import",
+            "reset-button-title": "Reset",
+            "columns": {
+                "name": "Full name",
+                "first-name": "First name",
+                "last-name": "Last name",
+                "phone-number": "Phone number"
+            }
+        }
+    }
+}

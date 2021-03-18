@@ -1,0 +1,1 @@
+export { PageSettings } from './components/PageSettings';

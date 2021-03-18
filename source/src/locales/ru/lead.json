@@ -1,0 +1,50 @@
+{
+    "common": {
+        "description": "Заявки на стадии переговоров и согласований"
+    },
+    "create": {
+        "title": "Создать новый Лид",
+        "form": {
+            "name": "Наименование контрагента",
+            "name-description": "Введите наименование контрагента",
+            "legal-entity-kind": "Организационно-правовая форма",
+            "nothing-legal-entity-kind": "Необходимо выбрать тип организационно-правовую форму"
+        },
+        "panels": {
+            "lead-create-form": "Основные параметры"
+        }
+    },
+    "edit": {
+        "form": {
+            "name": "Наименование контрагента",
+            "name-description": "Введите наименование контрагента",
+            "id": "Идентификатор записи",
+            "site-url": "Веб страница",
+            "site-url-description": "Введите адрес веб страницы контрагента",
+            "legal-entity-kind": "Организационно-правовая форма",
+            "customer-type": "Тип контрагента",
+            "demand": "Требования",
+            "demand-desciption": "Опишите потребности контрагента",
+            "kind-of-activity": "Тип деятельности",
+            "kind-of-activity-description": "Опишите чем занимается контрагент",
+            "description": "Дополнительная информация",
+            "description-description": "Опишите дополнительную информацию о контрагенте",
+            "nothing-customer-type": "Необходимо выбрать тип контрагента",
+            "country": "Страна",
+            "country-description": "Страна контрагента",
+            "region": "Регион",
+            "region-description": "Регион котрагента",
+            "city": "Населенный пункт",
+            "city-description": "Населенный пункт котрагента",
+            "address-line": "Юридический адрес",
+            "address-line-description": "Введите юридический адрес контрагента",
+            "address-line2": "Фактический адрес",
+            "address-line2-description": "Введите фактический адрес контрагента"
+        },
+        "panels": {
+            "lead-edit-form": "Основные параметры",
+            "lead-edit-address-form": "Адрес",
+            "lead-edit-contacts-grid": "Контакты"
+        }
+    }
+}

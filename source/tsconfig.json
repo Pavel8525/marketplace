@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "app/*": [
+        "./src/*"
+      ]
+    },
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "typeRoots": [
+      "../src/common/typings"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "App.tsx"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "callbot": {
+        "title": "Phone Call Agents",
+        "description": "Virtual employees performing assigned work"
+    },
+    "agents-table": {
+        "columns": {
+            "scheme": "Scheme",
+            "extension-number": "Extension number"
+        }
+    },
+    "qr-code": {
+        "title": "QR codes",
+        "description": "QR codes list"
+    },
+    "qr-code-table": {
+        "columns": {
+            "url": "Link",
+            "image-path": "Path to image"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+.material-form-control {
+    width: 100% !important;
+}
+
+.k-textbox-container .k-label {
+    font-size: 16px;
+}
+
+.k-label {
+    font-size: 16px;
+}
+
+.override-field-switch {
+    width: 50px;
+    position: absolute;
+    z-index: 999;
+}
+
+.override-field .k-textbox-container .k-label {
+    margin-left: 55px;
+    margin-top: -4px;
+}
+
+.k-list-container {
+    z-index: 1000;
+}
+
+.k-animation-container, .k-animation-container-shown {
+    z-index: 1000;
+}
+
+.k-text-disabled {
+    opacity: 1;
+}
+
+.k-textbox:disabled, .k-textarea:disabled {
+    color: black;
+    opacity: 0.7;
+    background: transparent;
+}

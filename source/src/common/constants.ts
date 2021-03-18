@@ -1,0 +1,12 @@
+export const applicationPrefixKey: string = 'btk';
+export const userImagePath: string = '/img/users';
+export const routeDefaultPath: string = '/';
+export const productionMode = true;
+export const debugMode = !productionMode;
+export const apiUrl = productionMode ? 'https://api.bantikom.com' : 'http://localhost';
+export const headerHeight = 130;
+export const footerHeight = 35;
+export const dataGridHeight = 500;
+export const paginationPageSizeMax = 30;
+export const drawerWidth = 900;
+export const OAuthClientId = 'web-personal';

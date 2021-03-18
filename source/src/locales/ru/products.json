@@ -1,0 +1,12 @@
+{
+    "title": "Список товаров",
+    "table": {
+        "columns": {
+            "vendor-code": "Артикул",
+            "bar-code": "Штрихкод",
+            "name": "Наименование",
+            "product-state": "Статус",
+            "marketplace": "Площадка"
+        }
+    }
+}

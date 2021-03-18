@@ -1,0 +1,35 @@
+{
+    "create": {
+        "title": "Поставить на мониторинг Артикул",
+        "form": {
+            "market-place-kind": "Выберите Маркетплейс",
+            "extended-id": "Артикул товара",
+            "url": "Веб адрес карточки товара"
+        },
+        "panels": {
+            "watching-product-create-form": "Заполните основные параметры"
+        }
+    },
+    "edit": {
+        "form": {},
+        "panels": {}
+    },
+    "search": {
+        "title": "Поставить на мониторинг Артикул",
+        "form": {
+            "submit-title": "Найти",
+            "market-place-kind": "Выберите Маркетплейс",
+            "search-code": "Артикул или веб адрес Товара"
+        },
+        "result": {
+            "add-button": "Добавить",
+            "is-sold-out": "В наличии:",
+            "is-sold-out-yes": "Да",
+            "is-sold-out-no": "Нет",
+            "price": "Цена:",
+            "vendor-code": "Артикул:",
+            "color": "Цвет:",
+            "brand-name": "Бренд:"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": "7e6e66f2-830f-465c-a41b-ada82ae73f70",
+    "email": "fordsoft@mail.ru",
+    "userName": "fordsoft@mail.ru",
+    "userFullName": "admin",
+    "countryName": "Russia",
+    "logoPath": "/img/users/7e6e66f2-830f-465c-a41b-ada82ae73f70.jpg",
+    "roles": [
+        "admins",
+        "users"
+    ]
+}

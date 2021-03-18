@@ -1,0 +1,22 @@
+{
+    "title": "Research List",
+    "description": "All research",
+    "badge-title": "New",
+    "state": {
+        "Nothing": "Nothing",
+        "New": "New",
+        "InProgress": "In progress",
+        "Paused": "Paused",
+        "Ended": "Ended"
+    },
+    "researches-table": {
+        "columns": {
+            "name": "Name",
+            "creation-date": "Date of creation",
+            "state": "Status",
+            "start-date": "Start date",
+            "end-date": "Expiration date",
+            "continuous" : "Continuous"
+        }
+    }
+}

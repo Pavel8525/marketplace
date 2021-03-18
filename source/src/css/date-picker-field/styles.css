@@ -1,0 +1,11 @@
+.date-picker-container {
+    width: 240px;
+}
+
+.date-picker-label {
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12px;
+    line-height: 1.375em;
+    cursor: text;
+}

@@ -1,0 +1,112 @@
+{
+    "spreadsheet": {
+        "columns": {
+            "status": "Статус",
+            "enabled": "Включить",
+            "id": "Id"
+        },
+        "comment": {
+            "status": "В этой колонке будет записан результат импорта"
+        }
+    },
+    "autoform": {
+        "submit": {
+            "creating": "Создать",
+            "editing": "Сохранить"
+        }
+    },
+    "data-grid": {
+        "toolbar-items": {
+            "create-item": {
+                "name": "Создать",
+                "title": "Создать новый элемент"
+            },
+            "export-pdf": {
+                "name": "Экспорт в PDF",
+                "title": "Экспортировать данные в файл формата PDF"
+            },
+            "import-product": {
+                "name": "Импортировать",
+                "title": "Импортировать товар из Площадки"
+            },
+            "open-add-change-reference-drawer": {
+                "name": "Добавить",
+                "title": "Добавить имеющийся элемент в Группу товаров"
+            },
+            "open-remove-change-reference-drawer": {
+                "name": "Исключить",
+                "title": "Исключить имеющийся элемент из Группы товаров"
+            },
+            "save": {
+                "name": "Сохранить",
+                "title": "Сохранить изменения"
+            },
+            "cancel": {
+                "name": "Отменить",
+                "title": "Отменить изменения"
+            }
+        },
+        "columns": {
+            "name": "Наименование",
+            "creation-date": "Дата создания",
+            "last-modification-date": "Дата редактирования",
+            "all": "Все"
+        },
+        "messages": {
+            "no-record-title": "Записей не обнаружено"
+        }
+    },
+    "validation": {
+        "must-be-greater-zero": "Должно быть больше 0"
+    },
+    "category-chooser": {
+        "choose-category-for-sale-product": "Выберите категорию, в которой вы собираетесь продавать товары.",
+        "if-category-not-found": "Если Вы не нашли подходящую категорию, ",
+        "ask-to-add": "попросите нас ее добавить.",
+        "headline": "Выберите категорию товара",
+        "confirm": "Подтвердить"
+    },
+    "lookup-chooser": {
+        "add": "Добавить",
+        "remove": "Исключить",
+        "founded-items": "Доступные записи",
+        "selected-items": "Выбранные записи",
+        "save": "Сохранить",
+        "cancel": "Отмена"
+    },
+    "product-group-chooser": {
+        "title": "Добавить / Исключить товар в Группу товаров"
+    },
+    "connected-marketplace-chooser": {
+        "title": "Выбрать площадку",
+        "add": "Выбрать"
+    },
+    "product-lookup-chooser-export-marketplace-drawer": {
+        "title": "Выбрать товары для экспорта"
+    },
+    "connected-marketplaces-list": {
+        "add": "Добавить",
+        "empty-list": "Нажмите кнопку Добавить что бы выбрать необходимую площадку",
+        "marketplace-already-exists": "Такая площадка уже добавлена",
+        "drawer": {
+            "headline": "Подтвердите параметры площадки",
+            "form": {
+                "choose-marketplace": "Выберите площадку",
+                "choose-marketplace-account": "Выберите аккаунт площадки",
+                "submit-title": "Добавить"
+            }
+        }
+    },
+    "platform-service-subscription": {
+        "dont-have-subscription": "Вы не имеете активной подписки на данный сервис",
+        "you-subscribe-notyte-about-release": "Как только релиз будет готов, мы с Вами обязательно свяжемся!",
+        "forms": {
+            "subscribe-form": {
+                "submit-button": "Активировать сервис"
+            },
+            "notify-release": {
+                "submit-button": "Уведомить"
+            }
+        }
+    }
+}

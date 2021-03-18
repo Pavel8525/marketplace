@@ -1,0 +1,13 @@
+{
+    "title": "Agent tasks",
+    "description": "All tasks assigned to agents",
+    "state": {
+        "Nothing": "Nothing",
+        "New": "New",
+        "Approved": "Approved",
+        "Committed": "Committed",
+        "PartialyCommitted": "Partialy committed",
+        "Done": "Done",
+        "Removed": "Removed"
+    }
+}

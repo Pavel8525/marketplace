@@ -1,0 +1,9 @@
+{
+    "common": {
+        "title": "An error has occurred."
+    },
+    "database": {
+        "concurrency": "The entity has been edited in a different tab, or by another user. Refresh the page and try again.",
+        "not-found": "The object was not found. Perhaps the object has been deleted."
+    }
+}

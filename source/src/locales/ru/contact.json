@@ -1,0 +1,27 @@
+{
+    "create": {
+        "form": {
+            "name": "Введите наименование Контакта",
+            "first-name": "Имя",
+            "last-name": "Фамилия",
+            "middle-name": "Отчество",
+            "contact-role": "Роль",
+            "phone-number": "Номер телефона",
+            "email": "E-mail"
+        }
+    },
+    "edit": {
+        "form": {
+            "name": "Введите наименование Контакта",
+            "first-name": "Имя",
+            "last-name": "Фамилия",
+            "middle-name": "Отчество",
+            "contact-role": "Роль",
+            "phone-number": "Номер телефона",
+            "email": "E-mail"
+        },
+        "panels": {
+            "contact-edit-form": "Основные параметры"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Campaign: {{name}}",
+    "common": {
+        "title": "Campaign Options",
+        "form": {
+            "id": "Identifier",
+            "name": "Name",
+            "name-placeholder": "Enter a new campaign name",
+            "comment": "Comment",
+            "comment-placeholder": "Enter a comment (optional)"
+        }
+    },
+    "researches": {
+        "title": "Campaign research"
+    }
+}

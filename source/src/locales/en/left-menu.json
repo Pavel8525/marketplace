@@ -1,0 +1,64 @@
+{
+    "metrics-reports": {
+        "title": "Metrics & Reports",
+        "dashboards": "Dashboards",
+        "reports": "Reports"
+    },
+    "campaigns-reserches": {
+        "title": "Campaigns & Reserches",
+        "campaigns": "Campaigns",
+        "researches": "Researches",
+        "cases": "Cases"
+    },
+    "user-management": {
+        "title": "User management",
+        "users": "Users",
+        "groups": "Groups"
+    },
+    "activity-tasks": {
+        "title": "Activity & Tasks",
+        "tasks": "Tasks",
+        "phone-calls": "Phone calls",
+        "conversations": "Conversations",
+        "data": "Data",
+        "completed-forms": "Completed forms"
+    },
+    "development-settings": {
+        "title": "Development",
+        "schemes": "Schemes",
+        "agents": "Agents",
+        "agents-callbot": "Phone",
+        "agents-chatbot": "Chat-bot",
+        "agents-qr": "Qr codes",
+        "agents-virtual-assistent": "Virtual assistant",
+        "agents-quizzes": "Web surveys",
+        "agents-recall-buttons": "Evaluation Buttons",
+        "agents-email": "Email Newsletter",
+        "agents-mystery-shopper": "Mystery shopper",
+        "schemes-all": "All",
+        "schemes-sandbox": "Sandbox",
+        "schemes-templates": "Templates",
+        "schemes-demos": "Demos",
+        "schemes-system": "System",
+        "logging": "Logging",
+        "logging-title": "Logging the work of agents and schemes"
+    },
+    "other": {
+        "title": "Other",
+        "tariffs-payment": "Tariffs and payment",
+        "tariffs-payment-plans": "Plans",
+        "tariffs-payment-payments": "Payments",
+        "access-management": "Access management"
+    },
+    "orders": {
+        "title": "Services",
+        "leads": "Leads",
+        "user-orders": "Orders",
+        "bookings": "Booking",
+        "tickets": "Tickets"
+    },
+    "reference-book": {
+        "title": "Reference Book",
+        "marketplaces-list": "Marketplaces"
+    }
+}

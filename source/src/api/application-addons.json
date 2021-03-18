@@ -1,0 +1,9 @@
+[
+    {
+        "id": "services",
+        "name": "Services",
+        "url": "",
+        "order" : 1,
+        "logoClass": "ni-settings"
+    }
+]

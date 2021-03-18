@@ -1,0 +1,14 @@
+{
+    "title": "Лиды",
+    "description": "Заявки на стадии переговоров и согласований",
+    "schemes-table": {
+        "columns": {
+            "name": "Наименование",
+            "creation-date": "Дата создания",
+            "modification-date": "Дата редактирования",
+            "comment": "Комментарий",
+            "tags": "Теги",
+            "published": "Опубликовано"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+.k-spreadsheet .k-tabstrip-wrapper .k-spreadsheet-quick-access-toolbar {
+    display: none;
+}
+
+.k-spreadsheet .k-tabstrip-wrapper .k-tabstrip-items {
+    padding-left: .3em !important;
+}
+
+.k-spreadsheet-tabstrip .k-tabstrip-items {
+    display: none;
+}

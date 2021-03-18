@@ -1,0 +1,9 @@
+.k-chip-list {
+    display: inline-block;
+    max-width: fit-content;
+}
+
+.k-chip {
+    float: left;
+    margin-bottom: 8px;
+}

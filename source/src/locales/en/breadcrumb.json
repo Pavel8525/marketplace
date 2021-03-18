@@ -1,0 +1,14 @@
+{
+    "routes": {
+        "/": "Home",
+        "/personal": "Home",
+        "/personal/campaigns": "Campaign List",
+        "/personal/cases": "Cases",
+        "/personal/researches": "Research List",
+        "/personal/development/schemes": "Logic Schemes",
+        "/personal/development/schemes/my": "Sanbox",
+        "/personal/development/schemes/templates": "Templates",
+        "/personal/development/schemes/demos": "Demo",
+        "/personal/development/schemes/system": "System"
+    }
+}

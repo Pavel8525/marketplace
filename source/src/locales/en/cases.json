@@ -1,0 +1,16 @@
+{
+    "title": "Cases",
+    "description": "Possible platform applications",
+    "card": {
+        "button-title": "Create campaign",
+        "samplesurl-title": "Samples",
+        "helpurl-title": "More details",
+        "badge-title": "New"
+    },
+    "card-offer": {
+        "name": "Suggest your case",
+        "description": "Offer your case for automation, our experts will help you.",
+        "button-title": "Suggest",
+        "helpurl-title": "More details"
+    }
+}

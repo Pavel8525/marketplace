@@ -1,0 +1,27 @@
+.k-grid {
+    border: none;
+}
+
+.k-grid-content td {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.k-grid-pager {
+    border-color: rgba(0, 0, 0, 0.12);
+}
+
+.k-pager-numbers .k-state-selected {
+    background-color: #886ab5;
+}
+
+.k-grid-header .k-header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: black;
+}
+
+.k-master-row td {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

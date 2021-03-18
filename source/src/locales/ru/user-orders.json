@@ -1,0 +1,21 @@
+{
+    "title": "Заказы услуг",
+    "table": {
+        "columns": {
+            "name": "Наименование",
+            "order-state": "Состояние",
+            "order-type": "Тип исполнителя",
+            "marketplace-kind": "Площадка",
+            "is-error": "Есть ошибки",
+            "service-type-name": "Услуга",
+            "number-all-tasks": "Кол-во задач",
+            "number-all-tasks-cell": {
+                "bad": "Задачи требующие внимания",
+                "in-progress": "Задачи в стадии исполнения",
+                "done": "Выполненны задачи",
+                "all": "Всего задач",
+                "number-not-sarted-tasks": "Задачи в очереди"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "validation": {
+        "required": "Required",
+        "max-length": "Must be {{max}} characters or less",
+        "min-length": "Must be at least {{min}}",
+        "number": "Must be a number",
+        "email": "Invalid email address",
+        "latin-alpha-numeric": "Only alphanumeric characters"
+    }
+}

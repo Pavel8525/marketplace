@@ -1,0 +1,32 @@
+{
+    "common": {},
+    "create": {
+        "title": "Создать новую Площадку",
+        "panels": {
+            "connected-marketplace-create-form": "Заполните информацию о Площадке"
+        },
+        "form": {
+            "name": "Введите наименование Площадки",
+            "marketplace-kind": "Выберите тип Площадки"
+        }
+    },
+    "edit": {
+        "panels": {
+            "connected-marketplace-edit-form": "Информация о Площадке",
+            "connected-marketplace-edit-authdata-form": "Аутентификационные данные"
+        },
+        "form": {
+            "name": "Введите наименование Площадки",
+            "marketplace-kind": "Выберите тип Площадки",
+            "active": "Площадка активна",
+            "login": "Логин",
+            "login-description": "Логин Вашей учётной записи на площадке",
+            "password": "Пароль",
+            "password-description": "Пароль Вашей учётной записи на площадке",
+            "api-key": "Ключ Api",
+            "api-key-description": "Ключ Api сформированный на площадке",
+            "client-key": "Идентификатор клиента",
+            "client-key-description": "Идентификатор клиента сформированный на площадке"
+        }
+    }
+}

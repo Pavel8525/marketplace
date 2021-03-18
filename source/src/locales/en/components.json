@@ -1,0 +1,55 @@
+{
+    "spreadsheet": {
+        "columns": {
+            "status": "Status",
+            "enabled": "Enable",
+            "id": "Id"
+        },
+        "comment": {
+            "status": "The import result will be written in this column."
+        }
+    },
+    "autoform": {
+        "submit": {
+            "creating": "Create",
+            "editing": "Save"
+        }
+    },
+    "data-grid": {
+        "toolbar-items": {
+            "create-item": {
+                "name": "Create",
+                "title": "Create new item"
+            },
+            "export-pdf": {
+                "name": "Export to PDF",
+                "title": "Export data to a PDF file"
+            }
+        },
+        "columns": {
+            "name": "Name",
+            "creation-date": "Date of creation",
+            "last-modification-date": "Editing Date"
+        }
+    },
+    "category-chooser": {
+        "choose-category-for-sale-product": "Select the category in which you are going to sell products.",
+        "if-category-not-found": "If you have not found a suitable category,",
+        "ask-to-add": "please ask us to add it.",
+        "headline": "Select product category",
+        "confirm": "Confirm"
+    },
+    "connected-marketplaces-list": {
+        "add": "Add",
+        "empty-list": "Click the Add button to select the marketplace",
+        "marketplace-already-exists": "The marketplace has already been added",
+        "drawer": {
+            "headline": "Confirm marketplace parameters",
+            "form": {
+                "choose-marketplace": "Choose marketplace",
+                "choose-marketplace-account": "Choose marketplace account",
+                "submit-title": "Add"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "metrics-reports": {
+        "title": "Метрики & Отчёты",
+        "dashboards": "Дашборды",
+        "reports": "Отчёты"
+    },
+    "campaigns-reserches": {
+        "title": "Кампании & Исследования",
+        "campaigns": "Кампании",
+        "researches": "Исследования",
+        "cases": "Кейсы"
+    },
+    "user-management": {
+        "title": "Управление пользователями",
+        "users": "Пользователи",
+        "groups": "Группы"
+    },
+    "activity-tasks": {
+        "title": "Активность и задачи",
+        "tasks": "Задачи",
+        "phone-calls": "Телефонны звонки",
+        "conversations": "Диалоги",
+        "data": "Данные",
+        "completed-forms": "Заполненные формы"
+    },
+    "development-settings": {
+        "title": "Разработка",
+        "schemes": "Схемы",
+        "agents": "Агенты",
+        "agents-callbot": "Телефон",
+        "agents-chatbot": "Чат-бот",
+        "agents-qr": "Qr коды",
+        "agents-virtual-assistent": "Виртуальный ассистент",
+        "agents-quizzes": "Web опросы",
+        "agents-recall-buttons": "Кнопки оценки",
+        "agents-email": "Email рассылка",
+        "agents-mystery-shopper": "Тайный покупатель",
+        "schemes-all": "Все",
+        "schemes-sandbox": "Песочница",
+        "schemes-templates": "Шаблоны",
+        "schemes-demos": "Демо",
+        "schemes-system": "Системные",
+        "logging": "Логирование",
+        "logging-title": "Логирование работы агентов и схем"
+    },
+    "other": {
+        "title": "Другое",
+        "tariffs-payment": "Тарифы и оплата",
+        "tariffs-payment-plans": "Тарифные планы",
+        "tariffs-payment-payments": "Платежи",
+        "access-management": "Контроль доступа"
+    },
+    "orders": {
+        "title": "Услуги",
+        "user-orders": "Заказы",
+        "leads": "Лиды",
+        "bookings": "Бронирование",
+        "tickets": "Обращения"
+    },
+    "reference-book": {
+        "title": "Справочники",
+        "marketplaces-list": "Площадки"
+    }
+}

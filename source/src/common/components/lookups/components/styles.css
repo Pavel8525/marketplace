@@ -1,0 +1,12 @@
+.k-list-container {
+    z-index: 1300;
+}
+
+.field-wrapper {
+    z-index: 1400;
+    width: 100%;
+}
+
+.field-wrapper .k-combobox {
+    width: 100%;
+}

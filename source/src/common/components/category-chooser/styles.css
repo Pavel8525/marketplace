@@ -1,0 +1,108 @@
+.categories-chooser-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.categories-chooser-page-footer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+    padding-top: 24px;
+}
+
+.categories-chooser-page-footer .apply-btn {
+    background-color: #3b7bff;
+    border-color: #3b7bff;
+    height: 40px;
+}
+
+.categories-chooser-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    max-height: 600px;
+    border: 1px solid #c3c3c3;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.categories-chooser-wrapper .categories-list {
+    width: 240px;
+    height: 100%;
+    overflow-y: auto;
+    border-right: 1px solid #c3c3c3;
+}
+
+.categories-list .categories-list-nav {
+    padding: 0;
+}
+
+.categories-list .list-item {
+    border-bottom: 1px solid #c3c3c3;
+    background-color: #fcfcfc;
+    color: #47556e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 24px;
+}
+
+.categories-list .list-item.Mui-selected {
+    background-color: #e9f0fd;
+    color: #47556e;
+    font-weight: bold;
+}
+
+.categories-list .list-item .fa-angle-right {
+    font-size: 16px;
+    color: #c3c3c3;
+}
+
+.categories-chooser-wrapper .categories-list:last-child {
+    border-right: none;
+}
+
+.category-chooser-description .description, .category-chooser-description .link {
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    font-weight: lighter;
+}
+
+.category-chooser-description .description {
+    color: #47556e
+}
+
+.category-chooser-description .link {
+    color: #3b7bff;
+    cursor: pointer;
+}
+
+.category-chooser-headline {
+    margin: 0;
+    color: #172133;
+    font-weight: bold;
+}
+
+@media (max-width: 375px) {
+    .categories-chooser-page {
+        width: auto !important;
+    }
+
+    .categories-chooser-wrapper {
+        flex-direction: column;
+    }
+
+    .categories-chooser-wrapper .categories-list {
+        border-right: none;
+        border-bottom: 1px solid #c3c3c3;
+        width: 100%;
+    }
+
+    .categories-chooser-wrapper .categories-list:last-child {
+        border-bottom: none;
+    }
+}

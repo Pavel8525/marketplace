@@ -1,0 +1,1 @@
+export { ProductShortcuts } from './components/ProductShortcuts';

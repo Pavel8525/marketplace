@@ -1,0 +1,6 @@
+{
+    "loading": {
+        "default": "Loading",
+        "error": "Something went wrong"
+    }
+}

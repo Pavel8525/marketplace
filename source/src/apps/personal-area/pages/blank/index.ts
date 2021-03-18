@@ -1,0 +1,1 @@
+export { BlankPage } from './components/BlankPage';

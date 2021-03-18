@@ -1,0 +1,123 @@
+{
+    "common": {},
+    "create": {
+        "title": "Создать новый Товар",
+        "panels": {
+            "product-create-form": "Заполните информацию о Товаре"
+        },
+        "form": {
+            "vendor-code": "Артикул",
+            "vendor-code-description": "Введите артикул Товара",
+            "ext-vendor-code": "Внешний артикул",
+            "ext-vendor-code-description": "Введите внешний артикул Товара",
+            "name": "Наименование",
+            "name-description": "Введите наименование Товара",
+            "category": "Категория",
+            "category-description": "Выберите категорию Товара",
+            "brand": "Бренд",
+            "brand-description": "Выберите бренд"
+        }
+    },
+    "creation-wizard": {
+        "statuses": {
+            "CommonOptions": "Заполните информацию о Товаре",
+            "Siting": "Добавьте площадки размещения"
+        },
+        "steps": {
+            "step-1": "1. Заполните основную информацию о Товаре",
+            "step-2": "2. Выберите площадки размещения"
+        },
+        "buttons": {
+            "next": "Далее",
+            "back": "Назад"
+        }
+    },
+    "card": {
+        "common-options-form": {
+            "title": "Информация о Товаре",
+            "tab-name": "Основная",
+            "form": {
+                "name": "Наименование",
+                "vendor-code": "Артикул",
+                "ext-vendor-code": "Внешний артикул",
+                "category": "Категория",
+                "brand": "Бренд",
+                "weight": "Вес с упаковкой, г",
+                "long": "Длина упаковки, мм",
+                "width": "Ширина упаковки, мм",
+                "height": "Высота упаковки, мм",
+                "description": "Описание"
+            }
+        },
+        "attributes": {
+            "title": "Характеристики",
+            "form-filter": "Отобразить характеристики"
+        }
+    },
+    "import-product": {
+        "title": "Импортировать товары из площадки",
+        "search": {
+            "title": "Параметры поиска",
+            "dont-have-connected-marketplace": "У Вас нет активной площадки. Вам необходим подключить и настроить <a href='/personal/reference-book/connected-marketplaces/list'>площадку</a>.",
+            "empty-result": "Товар не был найден",
+            "form": {
+                "connected-marketplace": "Выберите аккаунт площадки",
+                "submit-title": "Найти",
+                "start-all-import": "Импортировать все",
+                "start-include-import": "Импортировать выбранные",
+                "include-all": "Выбрать все",
+                "exclude-all": "Исключить все",
+                "items-found": "Всего найдено товаров: {{count}}",
+                "items-included": "Всего будет импортировано товаров: {{count}}"
+            },
+            "row": {
+                "name": "Наименование",
+                "add-button": "Добавить",
+                "include-button": "Включить в импорт",
+                "external-vendor-code": "Идентификатор платформы:",
+                "internal-vendor-code": "Артикул:"
+            }
+        },
+        "drawer": {
+            "title": "Подтвердите импорт товаров",
+            "items-found": "Всего найдено товаров:",
+            "items-included": "Всего будет импортировано товаров:",
+            "selected-connected-marketplace": "Аккаунт площадки:",
+            "confirm": "Подтвердить",
+            "description": "• Задача импорта товаров выполняется в фоновом режиме.<br/>• Следить за состоянием задачи можно в разделе <a href='/personal/user-orders/list/content:import-export-product-marketplace:import'>Услуги / Заказы</a>.<br/>• По окончанию операции поступит уведомление о результатах операции.<br/>• Импортированные товары будут доступны в разделе <a href='/personal/products/list/all'>Товары</a>.<br/>• Для обновления карточки товара необходимо открыть карточку и выбрать пункт меню ЭКСПОРТ/ИМПОРТ > Импортировать.",
+            "form": {
+                "create-marketplace-products": "Создать товар для площадок",
+                "select-marketplaces-action": "Cписок доступных площадок",
+                "select-marketplaces-error": "Необходимо выбрать одну или более площадок",
+                "notify-me-by-email": "Уведомить по Email",
+                "exist-product-action": "Стратегия импорта",
+                "exist-product-action-description": "Стратегия импорта позволяет корректно обработать ситуацию, когда импортируемый товар с идентичным артикулом имеется в Товарах.\n\n• Добавить новый - будет создан товар с новым артикулом\n• Обновить целевой - свойства целевого товара с идентичным артикулом, будут заменены на свойства импортируемого товара\n• Игнорировать импортируемый - импортируемый товар не будет импортирован"
+            }
+        }
+    },
+    "export-product": {
+        "drawer": {
+            "title": "Подтвердите экспорт товаров",
+            "items-included": "Всего будет экспортировано товаров:",
+            "confirm": "Подтвердить",
+            "description": "• Задача экспорта товаров выполняется в фоновом режиме.<br/>• Следить за состоянием задачи можно в разделе <a href='/personal/user-orders/list/content:import-export-product-marketplace:export'>Услуги / Заказы</a>.<br/>• По окончанию операции поступит уведомление о результатах операции.",
+            "form": {
+                "notify-me-by-email": "Уведомить по Email",
+                "email": "Email",
+                "validate": {
+                    "email-empty": "Email не должен быть пустым"
+                }
+            }
+        }
+    },
+    "marketplace-product-create-form": {
+        "drawer": {
+            "title": "Подтвердите создания товара",
+            "description": "Будет создан товар для площадки",
+            "form": {
+                "connected-marketplace": "Выберите площадку",
+                "head-product": "Выберите головной товар"
+            }
+        }
+    }
+}

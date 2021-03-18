@@ -1,0 +1,10 @@
+{
+    "contacts-table": {
+        "columns": {
+            "name": "Наименование",
+            "contact-role": "Роль",
+            "email": "E-mail",
+            "phone-number": "Телефонный номер"
+        }
+    }
+}

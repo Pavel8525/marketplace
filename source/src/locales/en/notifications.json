@@ -1,0 +1,7 @@
+{
+    "rest": {
+        "successfully": "Operation successfully confirmed",
+        "failed": "Operation not confirmed",
+        "no-changes-to-commit": "No changes to save"
+    }
+}
